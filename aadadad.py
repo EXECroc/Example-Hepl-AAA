@@ -19,6 +19,3 @@ print('Heloo')
 print('Heloo')
 print('Heloo')
 
-print("hello mne kapec")
-3211
-11
