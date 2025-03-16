@@ -20,5 +20,5 @@ print('Heloo')
 print('Heloo')
 
 print("hello mne kapec")
-
-dd
+3211
+11
